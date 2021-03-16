@@ -1,0 +1,5 @@
+BepInEx
+doorstop_config.ini
+doorstop_libs
+unstripped_corlib
+winhttp.dll
